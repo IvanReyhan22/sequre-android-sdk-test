@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sequre SDK</string>
+    <string name="text_camera_permission">Izinkan kamera</string>
+    <string name="text_must_allow">You must allow %s to access your camera</string>
+    <string name="text_place_qr_inside_frame">Tempatkan QR di dalam frame</string>
+    <string name="text_move_closer">Dekatkan ke QR</string>
+    <string name="text_move_further">Jauhkan dari QR</string>
+    <string name="text_hold_steady">Pertahankan Posisi</string>
+    <string name="text_find_qr">Cari QR atau\nAtur jarak Kamera dengan QR\nsekitar 10cm</string>
+    <string name="context_can_t_be_null">context tidak dapat null</string>
+    <string name="application_number_can_t_be_null">applicationNumber tidak dapat null</string>
+    <string name="application_number_can_t_be_empty">applicationNumber tidak boleh kosong</string>
+    <string name="text_check_your_internet_connection">Periksa koneksi internet Anda</string>
+    <string name="text_adjust_qr_to_the_area">Posisikan QR Code ke dalam Area</string>
+    <string name="text_scanning_will_begin_automatically">Scanning akan dimulai secara otomatis</string>
+    <string name="text_reading_image">Membaca gambar</string>
+</resources>
