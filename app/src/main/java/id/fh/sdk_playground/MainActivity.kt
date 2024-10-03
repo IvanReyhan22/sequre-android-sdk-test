@@ -11,7 +11,6 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import id.fh.mysdk.sdkToFormattedDate
 import id.fh.sdk_playground.ui.theme.Sdk_playgroundTheme
 
 class MainActivity : ComponentActivity() {
@@ -19,8 +18,6 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-        val dateString = "2023-10-04"
-        val formattedDate = dateString.sdkToFormattedDate()
         setContent {
             Sdk_playgroundTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
