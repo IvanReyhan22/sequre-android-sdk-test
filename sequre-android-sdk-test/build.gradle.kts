@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.jetbrains.kotlin.android)
-    id("maven-publish")
+    `maven-publish`
 }
 
 android {
@@ -44,21 +44,18 @@ dependencies {
 }
 
 /// for local repository testing
-//afterEvaluate {
-//    publishing {
-//        publications {
-//            register<MavenPublication>("release"){
-//                groupId = "id.fh"
-//                artifactId = "sequre-android-sdk-test"
-//                version = "1.0.0"
-//
-//                afterEvaluate {
-//                    from(components["release"])
-//                }
-//            }
-//        }
+afterEvaluate {
+    publishing {
+        publications {
+            create<MavenPublication>("maven"){
+                from(components["release"])
+                groupId = "id.fh"
+                artifactId = "sequre-android-sdk-test"
+                version = "1.0.4"
+            }
+        }
 //        repositories {
 //            mavenLocal()
 //        }
-//    }
-//}
+    }
+}

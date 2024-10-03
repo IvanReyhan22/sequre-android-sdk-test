@@ -18,6 +18,8 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
+//        val dateString = "2023-10-04"
+//        val formattedDate = dateString.sdkToFormattedDate()
         setContent {
             Sdk_playgroundTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
