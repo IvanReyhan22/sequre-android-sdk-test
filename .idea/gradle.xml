@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/MySDK" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/sequre-android-sdk-test" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

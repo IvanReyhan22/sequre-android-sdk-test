@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "id.fh.mysdk"
+    namespace = "id.fh.sequre_android_sdk_test"
     compileSdk = 34
 
     defaultConfig {
@@ -43,20 +43,19 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 }
 
-
 /// for local repository testing
 afterEvaluate {
     publishing {
         publications {
-           register<MavenPublication>("release"){
-               groupId = "id.fh"
-               artifactId = "MySDK"
-               version = "1.0.0"
+            register<MavenPublication>("release"){
+                groupId = "id.fh"
+                artifactId = "sequre-android-sdk-test"
+                version = "1.0.0"
 
-               afterEvaluate {
-                   from(components["release"])
-               }
-           }
+                afterEvaluate {
+                    from(components["release"])
+                }
+            }
         }
         repositories {
             mavenLocal()

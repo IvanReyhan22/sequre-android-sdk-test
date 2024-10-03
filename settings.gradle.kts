@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "sdk_playground"
 include(":app")
-include(":MySDK")
+include(":sequre-android-sdk-test")

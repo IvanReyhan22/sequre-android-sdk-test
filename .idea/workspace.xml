@@ -4,141 +4,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08011c1c-b8ad-4058-a815-8e7ed1533a24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/6d34ad34f796ae2a60b5aa2e4ca031699aca5d0f/metadata.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/6d34ad34f796ae2a60b5aa2e4ca031699aca5d0f/sources/org/gradle/accessors/dm/LibrariesForLibs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/6d34ad34f796ae2a60b5aa2e4ca031699aca5d0f/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/dcbcd87108cec70bb467e05d5172bee8efb944af/metadata.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/dcbcd87108cec70bb467e05d5172bee8efb944af/sources/org/gradle/accessors/dm/LibrariesForLibs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/dcbcd87108cec70bb467e05d5172bee8efb944af/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.7/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySDK/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySDK/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySDK/src/androidTest/java/id/fh/mysdk/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySDK/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySDK/src/main/java/id/fh/mysdk/Extensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySDK/src/test/java/id/fh/mysdk/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/id/fh/sdk_playground/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/fh/sdk_playground/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/fh/sdk_playground/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/fh/sdk_playground/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/fh/sdk_playground/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/id/fh/sdk_playground/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitpack.yml" beforeDir="false" afterPath="$PROJECT_DIR$/jitpack.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MySDK/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/google-services.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/MySDK/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/androidTest/java/id/sequre/sample/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/java/id/sequre/sample/Sample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/res/layout/result.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/res/layout/sample.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/test/java/id/sequre/sample/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre-release.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/androidTest/java/id/sequre/sdk/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/assets/blur.tflite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/assets/model-crop_sequre-20221029.tflite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/assets/model_classification_20230308.tflite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/assets/sequre_crop_canvas-20230510hi.tflite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/assets/sequre_crop_qr-20230510me.tflite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/assets/sequre_object-20230123-me.tflite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/java/id/sequre/sdk/Callback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/java/id/sequre/sdk/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/java/id/sequre/sdk/Sequre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/java/id/sequre/sdk/Status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/java/id/sequre/sdk/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/drawable/rounded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/font/proxima_nova_alt_bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/font/proxima_nova_alt_light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/font/proxima_nova_alt_thin.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/font/proxima_nova_black.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/font/proxima_nova_bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/font/proxima_nova_extrabold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/font/proxima_nova_regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/font/proxima_nova_thin.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/layout/sequre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-hdpi/ic_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-hdpi/ic_torch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-hdpi/ic_torch_off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-mdpi/ic_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-mdpi/ic_torch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-mdpi/ic_torch_off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xhdpi/ic_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xhdpi/ic_torch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xhdpi/ic_torch_off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xxhdpi/ic_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xxhdpi/ic_torch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xxhdpi/ic_torch_off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xxxhdpi/ic_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xxxhdpi/ic_torch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/mipmap-xxxhdpi/ic_torch_off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/values-in/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/values/attrs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequre/src/test/java/id/sequre/sdk/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    <list default="true" id="08011c1c-b8ad-4058-a815-8e7ed1533a24" name="Changes" comment="initial project">
+      <change afterPath="$PROJECT_DIR$/sequre-android-sdk-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequre-android-sdk-test/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequre-android-sdk-test/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequre-android-sdk-test/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequre-android-sdk-test/src/androidTest/java/id/fh/sequre_android_sdk_test/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequre-android-sdk-test/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequre-android-sdk-test/src/main/java/id/fh/sequre_android_sdk_test/Extensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequre-android-sdk-test/src/test/java/id/fh/sequre_android_sdk_test/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,6 +103,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="jitpack_publish" />
+                    <option name="lastUsedInstant" value="1727994139" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1727994138" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 6
@@ -242,12 +147,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "jitpack__publish",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Dependencies",
+    "last_opened_file_path": "/Users/iceqwen/Documents/personal/research/sequre-android-sdk-test/sequre-android-sdk-test/src/main/java/id/fh/sequre_android_sdk_test",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "build.tools"
@@ -258,6 +163,15 @@
     ]
   }
 }]]></component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sequre-android-sdk-test/src/main/java/id/fh/sequre_android_sdk_test" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="sdk_playground.app.main" />
@@ -335,6 +249,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727991380768</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial project">
+      <option name="closed" value="true" />
+      <created>1727994241425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727994241425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial project" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial project" />
   </component>
 </project>

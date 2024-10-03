@@ -1,4 +1,4 @@
-package id.fh.mysdk
+package id.fh.sequre_android_sdk_test
 
 import org.junit.Test
 
