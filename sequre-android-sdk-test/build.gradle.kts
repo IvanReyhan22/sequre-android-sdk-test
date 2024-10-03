@@ -44,21 +44,21 @@ dependencies {
 }
 
 /// for local repository testing
-afterEvaluate {
-    publishing {
-        publications {
-            register<MavenPublication>("release"){
-                groupId = "id.fh"
-                artifactId = "sequre-android-sdk-test"
-                version = "1.0.0"
-
-                afterEvaluate {
-                    from(components["release"])
-                }
-            }
-        }
-        repositories {
-            mavenLocal()
-        }
-    }
-}
+//afterEvaluate {
+//    publishing {
+//        publications {
+//            register<MavenPublication>("release"){
+//                groupId = "id.fh"
+//                artifactId = "sequre-android-sdk-test"
+//                version = "1.0.0"
+//
+//                afterEvaluate {
+//                    from(components["release"])
+//                }
+//            }
+//        }
+//        repositories {
+//            mavenLocal()
+//        }
+//    }
+//}
