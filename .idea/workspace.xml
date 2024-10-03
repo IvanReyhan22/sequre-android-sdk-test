@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08011c1c-b8ad-4058-a815-8e7ed1533a24" name="Changes" comment="initial project">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+    <list default="true" id="08011c1c-b8ad-4058-a815-8e7ed1533a24" name="Changes" comment="fix(gradle): update to jdk 17">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jitpack.yml" beforeDir="false" afterPath="$PROJECT_DIR$/jitpack.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +247,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727994241425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix(gradle): fix google repository content removed">
+      <option name="closed" value="true" />
+      <created>1727995916323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727995916323</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix(gradle): remove local publish">
+      <option name="closed" value="true" />
+      <created>1727997098485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727997098485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +279,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial project" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial project" />
+    <MESSAGE value="fix(gradle): fix google repository content removed" />
+    <MESSAGE value="fix(gradle): remove local publish" />
+    <MESSAGE value="fix(gradle): update to jdk 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(gradle): update to jdk 17" />
   </component>
 </project>
