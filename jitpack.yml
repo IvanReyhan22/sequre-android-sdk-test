@@ -2,3 +2,6 @@ before_install:
 
 jdk:
   -openjdk17
+
+install:
+  - mvn install:install-file -Dfile=sequre-sdk-test-release.aar -DgroupId=id.fh -DartifactId=sequre-android-sdk-test -Dversion=1.0.9 -Dpackaging=aar -DgeneratePom=true

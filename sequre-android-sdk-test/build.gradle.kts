@@ -58,7 +58,7 @@ dependencies {
 }
 
 group = "id.fh"
-version = "1.0.6"
+version = "1.0.9"
 
 
 /// for local repository testing
@@ -68,7 +68,7 @@ afterEvaluate {
             create<MavenPublication>("maven"){
                 groupId = "id.fh"
                 artifactId = "sequre-android-sdk-test"
-                version = "1.0.6"
+                version = "1.0.9"
 
                 from(components["release"])
             }
