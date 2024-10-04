@@ -4,6 +4,10 @@ plugins {
     `maven-publish`
 }
 
+apply {
+    plugin("maven-publish")
+}
+
 android {
     namespace = "id.fh.sequre_android_sdk_test"
     compileSdk = 34
