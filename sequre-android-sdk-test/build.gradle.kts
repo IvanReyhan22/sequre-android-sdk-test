@@ -35,6 +35,12 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+
+    publishing {
+        singleVariant("release"){
+            withSourcesJar()
+        }
+    }
 }
 
 dependencies {
@@ -47,15 +53,20 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 }
 
+group = "id.fh"
+version = "1.0.6"
+
+
 /// for local repository testing
 afterEvaluate {
     publishing {
         publications {
             create<MavenPublication>("maven"){
-                from(components["release"])
                 groupId = "id.fh"
                 artifactId = "sequre-android-sdk-test"
-                version = "1.0.4"
+                version = "1.0.6"
+
+                from(components["release"])
             }
         }
 //        repositories {
